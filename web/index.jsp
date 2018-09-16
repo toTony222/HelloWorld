@@ -14,6 +14,7 @@
       for(i=0;i<10;i++){
           console.log("我要打开"+i);
           window.open('http://www.zufe.edu.cn');
+          console.log("1");
       }
   }
   </script>
