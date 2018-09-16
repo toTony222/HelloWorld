@@ -20,6 +20,6 @@
   </script>
 </head>
 <body onload="openwindow()">
-  hello2
+  edit by lhc
 </body>
 </html>
