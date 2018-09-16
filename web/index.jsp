@@ -20,6 +20,6 @@
   </script>
 </head>
 <body onload="openwindow()">
-  hello1
+  hello2
 </body>
 </html>
